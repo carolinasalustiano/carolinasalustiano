@@ -9,4 +9,4 @@ Olá!
   <a href= ""><img src="https://img.shields.io/badge/Google%20Analytics-C10F8E?style=for-the-badge&logo=google%20analytics&logoColor=pink" target="_blank"></a>
 </div>
 
-  ![Snake animation] (https://github.com/carolinasalustiano/carolinasalustiano/blob/output/github-contribution-grid-snake.svg)
+  
